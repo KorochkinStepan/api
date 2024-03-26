@@ -267,7 +267,7 @@ If you are developing an API-only app and want to remove the frontend, you can d
 * In the `docker-compose.yml` file, remove the whole service / section `frontend`.
 * In the `docker-compose.override.yml` file, remove the whole service / section `frontend`.
 
-Done, you have a frontend-less (api-only) app. 🤓
+Done, you have a frontend-less (api-only) app.
 
 ---
 
